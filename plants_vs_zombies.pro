@@ -25,10 +25,109 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-        dialog.cpp
+        dialog.cpp \
+    zBonus.cpp \
+    zBoom.cpp \
+    zCard.cpp \
+    zCherryBombCard.cpp \
+    zFireTreeCard.cpp \
+    zIcePeaShooterCard.cpp \
+    zMushroomCard.cpp \
+    zNewDie.cpp \
+    zNewHead.cpp \
+    zObject.cpp \
+    zPeaShooterCard.cpp \
+    zPlant.cpp \
+    zPeaShooter.cpp \
+    zPoleZombieHead.cpp \
+    zPoleZombiedie.cpp \
+    zPotatoMineCard.cpp \
+    zRepeaterCard.cpp \
+    zShovelCard.cpp \
+    zSun.cpp \
+    zSunFall.cpp \
+    zSunFlower.cpp \
+    zSunFlowerCard.cpp \
+    zWallNut.cpp \
+    zPotatoMine.cpp \
+    zFireTree.cpp \
+    zCherryBomb.cpp \
+    zIcePeaShooter.cpp \
+    zMushRoom.cpp \
+    zWallNutCard.cpp \
+    zZombie.cpp \
+    zPoleZombie.cpp \
+    zNewsZombie.cpp \
+    zCommonZombie.cpp \
+    zScene.cpp \
+    zLawnScene.cpp \
+    zDarkScene.cpp \
+    zStartScene.cpp \
+    zFlyingObject.cpp \
+    zPea.cpp \
+    zFirePea.cpp \
+    zIcePea.cpp \
+    zMush.cpp \
+    zAnim.cpp \
+    zPeaHit.cpp \
+    zFire.cpp \
+    zZombieDie.cpp \
+    zBurnDie.cpp \
+    zZombieHead.cpp \
+    zMashedPotato.cpp
 
 HEADERS += \
-        dialog.h
+        dialog.h \
+    zBonus.h \
+    zBoom.h \
+    zCard.h \
+    zCherryBombCard.h \
+    zFireTreeCard.h \
+    zIcePeaShooterCard.h \
+    zMushoomCard.h \
+    zNewDie.h \
+    zNewHead.h \
+    zObject.h \
+    zPeaShooterCard.h \
+    zPlant.h \
+    zPeaShooter.h \
+    zPoleZombieDie.h \
+    zPoleZombieHead.h \
+    zPotatoMineCard.h \
+    zRepeaterCard.h \
+    zShovelCard.h \
+    zSun.h \
+    zSunFall.h \
+    zSunFlower.h \
+    zSunFlowerCard.h \
+    zWallNut.h \
+    zPotatoMine.h \
+    zFireTree.h \
+    zCherryBomb.h \
+    zIcePeaShooter.h \
+    zMushRoom.h \
+    zWallNutCard.h \
+    zZombie.h \
+    zPoleZombie.h \
+    zNewsZombie.h \
+    zCommonZombie.h \
+    zScene.h \
+    zLawnScene.h \
+    zDarkScene.h \
+    zStartScene.h \
+    zFlyingObject.h \
+    zPea.h \
+    zFirePea.h \
+    zIcePea.h \
+    zMush.h \
+    zAnim.h \
+    zPeaHit.h \
+    zFire.h \
+    zZombieDie.h \
+    zBurnDie.h \
+    zZombieHead.h \
+    zMashedPotato.h
 
 DISTFILES += \
-    version
+    version \
+    readme

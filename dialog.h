@@ -12,4 +12,4 @@ public:// 创建项目自带
     ~Dialog();  // 创建项目自带
 };  // 创建项目自带
 
-#endif // DIALOG_H  // 创建项目自带
+#endif // DIALOG_H  // 创建项目自带了
